@@ -1,6 +1,6 @@
 # 常用日历
 
-![Last Commit](https://img.shields.io/github/last-commit/Littleor/calender)
+![Last Commit](https://img.shields.io/github/last-commit/Littleor/calendar)
 
 ## 说明
 - 本项目为常用日历，可根据需要订阅
